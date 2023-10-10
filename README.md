@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Bhakti! 
 
 :computer: A software Engineer with 3 years of experience developing Java stack web applications.  
-:mortar_board: Currently a Computer Science Master's student at University of Florida set to graduate in May 2024.
+:mortar_board: Currently a Computer Science Master's student at the University of Florida set to graduate in May 2024.
 <!--
 **bhakti-kantariya/bhakti-kantariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
